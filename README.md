@@ -4,7 +4,14 @@
 
 I am a third-year **Information Technology student** at **York University**, passionate about solving real-world problems with innovative tech solutions. My experience spans **frontend and backend development**, **data management**, and **application design**. I’m currently working on projects that showcase my skills in **React**, **Node.js**, **Java**, and **Python**, while constantly learning and exploring new technologies. 
 
+## 📚 What I’m Learning  
 
+- Enhancing skills in **data structures and algorithms** to excel in technical interviews.  
+- Exploring **design patterns** to write scalable and maintainable code.  
+- Exploring **game development** as a hobby, combining creativity and technical problem-solving.  
+- Learning more about **AI technologies** and their applications in real-world projects.  
+- Improving my expertise in **containerization** and **cloud deployments**.
+- And keeping up to date with the most recent tech news!
 ## 🚀 Technical Skills  
 
 ### Programming Languages
@@ -41,11 +48,7 @@ I am a third-year **Information Technology student** at **York University**, pas
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📚 What I’m Learning  
 
-- Enhancing skills in **data structures and algorithms** to excel in technical interviews.  
-- Exploring **AI technologies** and their applications in real-world projects.
-- Learning about **Design Patterns** and how to write cleaner and more effective code.
 
 ## 💼 Let’s Connect!  
 
